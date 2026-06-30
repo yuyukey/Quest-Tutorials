@@ -1,0 +1,7 @@
+actions:
+  addTagIntroducedToBonny: "tag add introducedToBonny"
+  addTagMetJoe: "tag add metJoe"
+  addTagMetFren: "tag add metFren"
+  addTagIntroducedToEveryone: "folder addIntroducedToEveryone,deleteMetTags"
+  addIntroducedToEveryone: "tag add introducedToEveryone"
+  deleteMetTags: "tag delete metFren,metJoe"
