@@ -1,5 +1,0 @@
-events:
-  addTagIntroducedToBonny: "tag add introducedToBonny"
-  addTagMetJoe: "tag add metJoe"
-  addTagMetFren: "tag add metFren"
-  addTagIntroducedToEveryone: "run ^tag add introducedToEveryone ^tag delete metFren,metJoe"
